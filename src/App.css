@@ -1,0 +1,16 @@
+
+
+.App {
+  min-height: 100vh;
+  flex-direction: column;
+  display: flex;
+}
+
+
+.App-main{
+  flex:1;
+  align-items: flex-start;
+  justify-content: center;
+  display: flex;
+  padding: 5rem;
+}
